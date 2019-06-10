@@ -1,0 +1,22 @@
+{
+  "name": "test-netlify",
+  "version": "1.0.0",
+  "description": "README",
+  "main": "index.js",
+  "scripts": {
+	"build": "uispec generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oosugi20/test-netlify.git"
+  },
+  "author": "Makoto OOSUGI <oosugi20@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/oosugi20/test-netlify/issues"
+  },
+  "homepage": "https://github.com/oosugi20/test-netlify#readme",
+  "dependencies": {
+    "uispec": "0.0.5"
+  }
+}
